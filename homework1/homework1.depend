@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677934527 source:c:\users\shade\desktop\workspace\cpp-codeblocks\homework1\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<sstream>
+
