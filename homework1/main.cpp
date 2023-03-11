@@ -17,7 +17,7 @@ int main()
 
     getline(cin, line);
 
-    stringstream ss(line);
+    stringstream ss(line);0
 
     if( ss >> value1 && ss.eof()){
         if(is_palindrome(value1)){
